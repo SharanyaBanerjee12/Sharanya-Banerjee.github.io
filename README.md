@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharanyaBanerjee12
-- 👀 I’m interested in Economics and Behavioral Sciences
+- 👀 I’m interested in Economics and Data analysis
 - 🌱 I’m currently learning Python
-- 📫 Mail me here : sharanyabanerjee333@gmail.com
+- 📫 Contact me at : sharanyabanerjee333@gmail.com
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I am funny 
 
